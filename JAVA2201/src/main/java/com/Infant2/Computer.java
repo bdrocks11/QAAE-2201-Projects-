@@ -1,4 +1,4 @@
-package Infant2;
+package com.Infant2;
 
 public class Computer {
     public static void main(String[] args) {
